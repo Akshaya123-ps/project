@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+#i{
+  margin-left: 70em;
+}
+#h1{
+  font-family:'Broadway';
+}
+#idi{
+  border: 1px solid black;
+  margin-left: 30em;
+  margin-right: 20em;
+  /* background-color: rgb(89, 100, 105); */
+  border-radius: 3em;
+  background-image: url(https://th.bing.com/th/id/OIP.Jontf4Lsxd257sQjztXMJQHaGG?w=1136&h=936&rs=1&pid=ImgDetMain);
+  background-size: cover;
+}
